@@ -6,7 +6,9 @@ h1 {
 font-family: 'Kaushan Script', cursive;
   color: #414141 ;
 }
-
+.circular--square {
+  border-radius: 50%;
+}
 h3 {
   color: #414141
 }
